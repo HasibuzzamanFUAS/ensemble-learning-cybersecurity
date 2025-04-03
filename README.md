@@ -24,3 +24,6 @@ by utilizing the capabilities of several models. As ensemble
 learning continues to progress, real-time analytics and adaptive
 learning will be further strengthened, strengthening
 cybersecurity defenses against ever-changing threats.**
+
+
+To read more and get the full paper [here](https://github.com/HasibuzzamanFUAS/ensemble-learning-cybersecurity/blob/main/documentation/Ensemble%20Learning_Paper_Hasibuzzaman.pdf)
